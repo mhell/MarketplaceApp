@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #d4d0d0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #d10000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  background-color: #fff;
+  margin: 20px auto; /* centers the section? */
+  padding: 20px;
+  border-radius: 5px; /* not in image? */
+}
+
+h2 {
+  color: #4CAF50;
+  text-align: center;
+}
+
+.product {
+  margin: 2rem auto;
+  padding: 10px;
+  max-width: 600px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.email-field {
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+footer {
+  border-radius: 5px 5px 0 0; /* not in image? */
+  box-shadow: -5px -5px 5px rgba(0, 0, 0, 0.2); /* not in image? */
+  background-color: #000;
+  margin-top: 1rem;
+  padding: .5rem 1rem;
+  text-align: center;
+  color: #fff;
+}
